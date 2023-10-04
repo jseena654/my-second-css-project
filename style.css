@@ -1,0 +1,32 @@
+.red-border {
+    border: 0.1rem solid red;
+}
+.photo {
+    width: 5rem;
+    height: 5rem;
+
+}
+.photo-and-name{
+    display: grid;
+    grid-template-columns: 5rem 10rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.name {
+    width: 7rem;
+    height: 2rem;
+    margin-top: 1.5rem;
+    margin-left: 1rem;
+}
+.button{
+    width: 20%;
+    margin-left: 1rem;
+    margin-bottom: 1rem; 
+}
+
+.main{
+    margin-top: 1rem;
+}
